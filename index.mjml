@@ -1,0 +1,613 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="main-bc" background-color="#f1f1f1" />
+      <mj-class name="no-padding" padding="0" />
+      <mj-class name="main-button" border-radius="5px" />
+      <mj-class name="footer-font-size" font-size="14px" />
+      <mj-class name="main-font-size" font-size="16px" />
+      <mj-class name="bigger-font-size" font-size="20px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="main-bc">
+    <mj-wrapper mj-class="main-bc no-padding">
+      <!-- Company Logo -->
+      <mj-section mj-class="no-padding">
+        <mj-column width="100%">
+          <mj-image
+            align="center"
+            width="127px"
+            src="images/gr-logo.png"
+            alt="Goodreads logo"
+            padding="45px 0 15px 0"
+            href="https://www.goodreads.com/"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Top Pick Header / Divider -->
+      <mj-section padding="0 0 20px 0">
+        <!-- Column 1 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+        <!-- Column 2 -->
+        <mj-column width="200px">
+          <mj-text
+            mj-class="main-font-size"
+            font-weight="bold"
+            padding="10px 0"
+            align="center"
+            vertical-align="middle"
+          >
+            Choice Winner
+          </mj-text>
+        </mj-column>
+        <!-- Column 3 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+      </mj-section>
+
+      <!-- Top Pick Image -->
+      <mj-section mj-class="no-padding">
+        <mj-column width="100%">
+          <mj-image
+            mj-class="no-padding"
+            src="images\top-pick.png"
+            alt="Goodreads top pick image"
+            href="https://www.goodreads.com/"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Read More Button -->
+      <mj-section padding="15px 0 30px 0">
+        <mj-column width="100%">
+          <mj-button
+            mj-class="main-button main-font-size no-padding"
+            background-color="#58A4B0"
+            width="182px"
+            height="50px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text> Read more </mj-text>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Best of the Month Header / Divider -->
+      <mj-section padding="0 0 20px 0">
+        <!-- Column 1 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+        <!-- Column 2 -->
+        <mj-column width="200px">
+          <mj-text
+            mj-class="main-font-size"
+            font-weight="bold"
+            padding="10px 0"
+            align="center"
+            vertical-align="middle"
+          >
+            Best of the Month
+          </mj-text>
+        </mj-column>
+        <!-- Column 3 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+      </mj-section>
+
+      <!-- Best of the Month Image -->
+      <mj-section mj-class="no-padding">
+        <mj-column width="100%">
+          <mj-image
+            mj-class="no-padding"
+            src="images/best-of-feb.png"
+            alt="Goodreads best books of the month image"
+            href="https://www.goodreads.com/"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Ream More Button -->
+      <mj-section padding="15px 0 30px 0">
+        <mj-column width="100%">
+          <mj-button
+            mj-class="main-button main-font-size no-padding"
+            background-color="#58A4B0"
+            width="182px"
+            height="50px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text> Read more </mj-text>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- New Children's Book Header / Divider -->
+      <mj-section padding="0 0 20px 0">
+        <!-- Column 1 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+        <!-- Column 2 -->
+        <mj-column width="200px">
+          <mj-text
+            mj-class="main-font-size"
+            font-weight="bold"
+            padding="10px 0"
+            align="center"
+            vertical-align="middle"
+          >
+            New Children's Books
+          </mj-text>
+        </mj-column>
+        <!-- Column 3 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+      </mj-section>
+
+      <!-- New Children's Book Image -->
+      <mj-section mj-class="no-padding">
+        <mj-column width="100%">
+          <mj-image
+            mj-class="no-padding"
+            src="images/c-books.png"
+            alt="Goodreads best books of the month image"
+            href="https://www.goodreads.com/"
+          />
+        </mj-column>
+      </mj-section>
+
+      <!-- Read More Button -->
+      <mj-section padding="15px 0 30px 0">
+        <mj-column width="100%">
+          <mj-button
+            mj-class="main-button main-font-size no-padding"
+            background-color="#58A4B0"
+            width="182px"
+            height="50px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text> Read more </mj-text>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Trending Header / Divider -->
+      <mj-section padding="0 0 40px 0">
+        <!-- Column 1 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+        <!-- Column 2 -->
+        <mj-column width="200px">
+          <mj-text
+            mj-class="main-font-size"
+            font-weight="bold"
+            padding="10px 0"
+            align="center"
+            vertical-align="middle"
+          >
+            Trending Books
+          </mj-text>
+        </mj-column>
+        <!-- Column 3 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+      </mj-section>
+
+      <!-- Trending Intro Statement -->
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-text mj-class="main-font-size" align="center">
+            These books will have been capturing the attention among readers.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- 2 Column Trending Books -->
+      <mj-section>
+        <!-- Box 1 -->
+        <mj-column
+          border-right="solid 1px #404040"
+          border-bottom="solid 1px #404040"
+          padding="15px 0"
+          width="50%"
+        >
+          <mj-text
+            mj-class="bigger-font-size"
+            font-weight="900"
+            align="center"
+            padding="0"
+          >
+            #1
+          </mj-text>
+          <mj-image
+            src="images/novel.png"
+            width="102px"
+            alt="Into the Novel Wild We Go book image"
+          />
+          <mj-text
+            padding="0"
+            mj-class="bigger-font-size"
+            align="center"
+            line-height="1.5"
+            font-weight="600"
+          >
+            Into the Novel Wild<br />We Go
+          </mj-text>
+          <mj-text
+            padding="0"
+            mj-class="main-font-size"
+            align="center"
+            line-height="1.5"
+          >
+            by Jonathan Henries
+          </mj-text>
+          <mj-button
+            background-color="#D6D6D6"
+            width="130px"
+            height="40px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text style="color: #404040; font-weight: 600"
+              >Get a copy</mj-text
+            >
+          </mj-button>
+        </mj-column>
+
+        <!-- Box 2 -->
+        <mj-column
+          border-bottom="solid 1px #404040"
+          padding="15px 0"
+          width="50%"
+        >
+          <mj-text
+            mj-class="bigger-font-size"
+            font-weight="900"
+            align="center"
+            padding="0"
+          >
+            #2
+          </mj-text>
+          <mj-image
+            src="images/harry.png"
+            width="102px"
+            alt="The Kid Harry Story book image"
+          />
+          <mj-text
+            padding="0"
+            mj-class="bigger-font-size"
+            align="center"
+            line-height="1.5"
+            font-weight="600"
+          >
+            The Kid Harry
+            <br />Story
+          </mj-text>
+          <mj-text
+            padding="0"
+            mj-class="main-font-size"
+            align="center"
+            line-height="1.5"
+          >
+            by Katie Sevior
+          </mj-text>
+          <mj-button
+            background-color="#D6D6D6"
+            width="130px"
+            height="40px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text style="color: #404040; font-weight: 600"
+              >Get a copy</mj-text
+            >
+          </mj-button>
+        </mj-column>
+
+        <!-- Box 3 -->
+        <mj-column border-right="solid 1px #404040" width="50%">
+          <mj-text
+            mj-class="bigger-font-size"
+            font-weight="900"
+            align="center"
+            padding="15px 0"
+          >
+            #3
+          </mj-text>
+          <mj-image
+            src="images/creativity.png"
+            width="102px"
+            alt="Guide to Creativity book image"
+          />
+          <mj-text
+            padding="0"
+            mj-class="bigger-font-size"
+            align="center"
+            line-height="1.5"
+            font-weight="600"
+          >
+            Guide to Creativity
+          </mj-text>
+          <mj-text
+            padding="0"
+            mj-class="main-font-size"
+            align="center"
+            line-height="1.5"
+          >
+            by Hane Petter
+          </mj-text>
+          <mj-button
+            background-color="#D6D6D6"
+            width="130px"
+            height="40px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text style="color: #404040; font-weight: 600"
+              >Get a copy</mj-text
+            >
+          </mj-button>
+        </mj-column>
+
+        <!-- Box 4 -->
+        <mj-column width="50%">
+          <mj-text
+            mj-class="bigger-font-size"
+            font-weight="900"
+            align="center"
+            padding="15px 0"
+          >
+            #4
+          </mj-text>
+          <mj-image
+            src="images/lady-i.png"
+            width="102px"
+            alt="Guide to Creativity book image"
+          />
+          <mj-text
+            padding="0"
+            mj-class="bigger-font-size"
+            align="center"
+            line-height="1.5"
+            font-weight="600"
+          >
+            Lady Iena
+          </mj-text>
+          <mj-text
+            padding="0"
+            mj-class="main-font-size"
+            align="center"
+            line-height="1.5"
+          >
+            by Maria Bowen
+          </mj-text>
+          <mj-button
+            background-color="#D6D6D6"
+            width="130px"
+            height="40px"
+            href="https://www.goodreads.com/"
+          >
+            <mj-text style="color: #404040; font-weight: 600"
+              >Get a copy</mj-text
+            >
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Other News Section -->
+      <!-- Other News Header / Divider -->
+      <mj-section padding="0 0 20px 0">
+        <!-- Column 1 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+        <!-- Column 2 -->
+        <mj-column width="200px">
+          <mj-text
+            mj-class="main-font-size"
+            font-weight="bold"
+            padding="10px 0"
+            align="center"
+            vertical-align="middle"
+          >
+            Other News
+          </mj-text>
+        </mj-column>
+        <!-- Column 3 -->
+        <mj-column width="200px">
+          <mj-text padding="0">___________________________</mj-text></mj-column
+        >
+      </mj-section>
+
+      <!-- Other News List -->
+      <mj-section padding="0 40px 25px 40px">
+        <mj-column width="100%">
+          <mj-text padding="0" line-height="1.3" font-size="14px">
+            <ul>
+              <li style="padding-bottom: 10px">
+                Now that you've checked out February’s Goodreads Choice winners,
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >see which books gained other literary awards</a
+                >!
+              </li>
+              <li style="padding-bottom: 10px">
+                Find your best books fast with our
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >updated website</a
+                >.
+              </li>
+              <li style="padding-bottom: 10px">
+                Jump into the adventure with
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >these nonfiction books about the animal kingdom</a
+                >.
+              </li>
+              <li style="padding-bottom: 10px">
+                Want to listen to more of your favorite authors on the go? Our
+                Voices &amp; Interviews podcast can be found
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >here</a
+                >.
+              </li>
+              <li style="padding-bottom: 10px">
+                Browse through
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >hundreds of book giveaways</a
+                >, and sort through the offerings by most popular, just listed,
+                genre, and more!
+              </li>
+              <li style="padding-bottom: 10px">
+                Hey, are you an author? Hop into our
+                <a
+                  href="https://www.goodreads.com/"
+                  style="color: inherit; text-decoration: underline"
+                  >Goodreads Author Program</a
+                >
+                to access exclusive deals to reach more readers and build buzz
+                for your books.
+              </li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer Section -->
+      <!-- Footer Social Header -->
+      <mj-section padding="10px 0" background-color="#D6D6D6">
+        <mj-column width="100%">
+          <mj-text align="center" mj-class="main-font-size">
+            Follow Goodreads on
+          </mj-text>
+        </mj-column>
+        <!-- Social Icons -->
+        <mj-column width="100%">
+          <mj-social icon-size="30px">
+            <mj-social-element
+              padding="0 8px"
+              name="facebook"
+              href="https://www.facebook.com/"
+              alt="facebook icon"
+            >
+            </mj-social-element>
+            <mj-social-element
+              padding="0 8px"
+              name="linkedin"
+              href="https://www.linkedin.com/"
+              alt="linkedin icon"
+            >
+            </mj-social-element>
+            <mj-social-element
+              padding="0 8px"
+              name="twitter"
+              href="https://www.twitter.com/"
+              alt="twitter icon"
+            >
+            </mj-social-element>
+            <mj-social-element
+              padding="0 8px"
+              name="instagram"
+              href="https://www.instagram.com/"
+              alt="instagram icon"
+            >
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+
+        <!-- More Great Content Statement -->
+        <mj-column padding="0 80px" width="100%">
+          <mj-text line-height="1.5" align="center">
+            For more great content, explore our
+            <a
+              href="https://www.goodreads.com/"
+              style="color: inherit; font-weight: 700; text-decoration: none"
+              >News &amp; Interviews</a
+            >
+            page.<br />We’re hiring!
+            <a
+              href="https://www.goodreads.com/"
+              style="color: inherit; font-weight: 700; text-decoration: none"
+              >Find our jobs</a
+            >.
+          </mj-text>
+        </mj-column>
+
+        <!-- Get Our App Section -->
+        <mj-column width="100%">
+          <mj-text align="center" mj-class="main-font-size">
+            GET OUR APP
+          </mj-text>
+        </mj-column>
+
+        <!-- APP STORE AND GOOGLE PLAY STORE ICONS -->
+        <mj-column width="30%" padding-bottom="7px">
+          <mj-image
+            padding="0 5px 0 0"
+            align="right"
+            href="https://www.apple.com/"
+            src="images/aps-icon.png"
+            width="100px"
+            alt="apple app store icon"
+          />
+        </mj-column>
+        <mj-column width="30%">
+          <mj-image
+            padding="0 0 0 5px"
+            align="left"
+            href="https://play.google.com/store/games?pli=1"
+            src="images/gps-icon.png"
+            width="100px"
+            alt="google play store icon"
+          />
+        </mj-column>
+
+        <!-- Unsubscribe Section -->
+        <mj-column width="100%">
+          <mj-text align="center">
+            No longer wish to receive our emails?
+            <a
+              href="https://www.goodreads.com/"
+              style="color: inherit; font-weight: 700; text-decoration: none"
+              >Unsubscribe</a
+            >
+          </mj-text>
+        </mj-column>
+
+        <!-- Unsubscribe Section -->
+        <mj-column width="100%">
+          <mj-text align="center">
+            Need help with something else?
+            <a
+              href="https://www.goodreads.com/"
+              style="color: inherit; font-weight: 700; text-decoration: none"
+              >Goodreads Help</a
+            >
+          </mj-text>
+        </mj-column>
+
+        <!-- Copyright Section -->
+        <mj-column width="100%" border-top="solid 1px #404040">
+          <mj-text align="center">
+            Copyright 2022 Goodreads | 188 Spear Street, San Francisco, CA 94105
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
