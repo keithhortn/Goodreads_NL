@@ -216,8 +216,8 @@
       <mj-section>
         <!-- Box 1 -->
         <mj-column
-          border-right="solid 1px #404040"
-          border-bottom="solid 1px #404040"
+          border-right="solid 1px #333333"
+          border-bottom="solid 1px #333333"
           padding="15px 0"
           width="50%"
         >
@@ -257,7 +257,7 @@
             height="40px"
             href="https://www.goodreads.com/"
           >
-            <mj-text style="color: #404040; font-weight: 600"
+            <mj-text style="color: #333333; font-weight: 600"
               >Get a copy</mj-text
             >
           </mj-button>
@@ -265,7 +265,7 @@
 
         <!-- Box 2 -->
         <mj-column
-          border-bottom="solid 1px #404040"
+          border-bottom="solid 1px #333333"
           padding="15px 0"
           width="50%"
         >
@@ -306,14 +306,14 @@
             height="40px"
             href="https://www.goodreads.com/"
           >
-            <mj-text style="color: #404040; font-weight: 600"
+            <mj-text style="color: #333333; font-weight: 600"
               >Get a copy</mj-text
             >
           </mj-button>
         </mj-column>
 
         <!-- Box 3 -->
-        <mj-column border-right="solid 1px #404040" width="50%">
+        <mj-column border-right="solid 1px #333333" width="50%">
           <mj-text
             mj-class="bigger-font-size"
             font-weight="900"
@@ -350,7 +350,7 @@
             height="40px"
             href="https://www.goodreads.com/"
           >
-            <mj-text style="color: #404040; font-weight: 600"
+            <mj-text style="color: #333333; font-weight: 600"
               >Get a copy</mj-text
             >
           </mj-button>
@@ -394,7 +394,7 @@
             height="40px"
             href="https://www.goodreads.com/"
           >
-            <mj-text style="color: #404040; font-weight: 600"
+            <mj-text style="color: #333333; font-weight: 600"
               >Get a copy</mj-text
             >
           </mj-button>
@@ -602,7 +602,7 @@
         </mj-column>
 
         <!-- Copyright Section -->
-        <mj-column width="100%" border-top="solid 1px #404040">
+        <mj-column width="100%" border-top="solid 1px #333333">
           <mj-text align="center">
             Copyright 2022 Goodreads | 188 Spear Street, San Francisco, CA 94105
           </mj-text>
